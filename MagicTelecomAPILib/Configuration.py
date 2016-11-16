@@ -8,7 +8,7 @@
 
 class Configuration(object):
     # The base Uri for API calls
-    BASE_URI = "https://api.magictelecom.com/app_dev.php"
+    BASE_URI = "https://api.magictelecom.com"
 
     # API Token
     x_auth_token = "123abcqwerty";
